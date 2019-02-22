@@ -1,6 +1,8 @@
 # gitnotes
 Create release notes from git log
 
+When user stories are referenced in your commit message with a hashtag+number (e.g. #0000)  they will be listed in the user story column
+
 # Install
 `npm install gitnotes -g`
 
