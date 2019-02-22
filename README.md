@@ -2,7 +2,7 @@
 Create release notes from git log
 
 # Install
-`npm install -g`
+`npm install gitnotes -g`
 
 # CLI Usage
 
