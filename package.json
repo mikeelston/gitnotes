@@ -2,12 +2,14 @@
   "name": "gitnotes",
   "version": "1.0.0",
   "description": "Crete Markdown Release notes from git log",
+  "url" : "https://github.com/mikeelston/gitnotes",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/mikeelston/gitnotes.git"
   },
   "author": "Mike Elston <mike@notsle.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "commander": "^2.19.0",
     "markdown-table": "^1.1.2",
