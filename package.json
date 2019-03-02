@@ -1,6 +1,6 @@
 {
   "name": "gitnotes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Crete Markdown Release notes from git log",
   "url" : "https://github.com/mikeelston/gitnotes",
   "main": "index.js",

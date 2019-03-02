@@ -84,7 +84,7 @@ function createNotes(data){
   // console.log(title)
   let thisMarkDown = '';
   // console.log("--------------------------------------------------")
-  let apitable = [["Timestamp", "User Stories","Committer", "Comments"]]
+  let apitable = [["Timestamp","Task","Committer","Comments"]]
   data.forEach(function(d,i){
     let thisStories = d.message.match(/#[0-9]+/g)
     let thisrow = []
